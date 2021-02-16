@@ -4,4 +4,8 @@
 - 如果你对我的开源项目有什么问题或者想法，欢迎联系我的邮箱`1849483422@qq.com`
 - 更多知识分享，欢迎关注我的公众号`James的黑板报`
 
+<div align="left">
+<img src=https://img-blog.csdnimg.cn/20200822014538211.png />
+</div>
+
 ![](https://github.com/zxhjames/learn_resource/blob/gongzhonghao/mygif/newassets.jpg)
