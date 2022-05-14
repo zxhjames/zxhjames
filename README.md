@@ -8,3 +8,5 @@
 ![img](https://img.shields.io/badge/CSDN-jamesx-blue) https://blog.csdn.net/qq_37756310
 
 ![img](https://img.shields.io/badge/Leetcode-jamesx-red) https://leetcode-cn.com/u/jamesx/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxhjames)](https://github.com/anuraghazra/github-readme-stats)
