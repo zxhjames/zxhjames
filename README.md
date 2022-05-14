@@ -1,9 +1,9 @@
 ### Hi! friends,welcome to my github 👋 
 
 <html>
-    <table border=0 style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
+    <table border="0" cellspacing="0" cellpadding="0">
+        <tr border=0>
+            <td border="0" style="border-right-style:none">
                 <!--左侧内容-->
                
 ![img](https://img.shields.io/badge/%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91-jamesx-orange) **机器学习与分布式系统**
